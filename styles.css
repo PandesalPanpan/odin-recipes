@@ -1,0 +1,29 @@
+body {
+    font-family: "Copperplate", sans-serif
+}
+
+.container {
+    text-align: center;
+    border: 2px black solid;
+    background-color: mintcream;
+}
+
+ul {
+    display: flex;
+    width: 300px;
+    margin: 10px auto;
+}
+
+li {
+    list-style: none;
+    margin: 5px;
+}
+
+li a {
+    border-radius: 20px;
+    text-decoration: none;
+    border: 1px solid red;
+    color: brown;
+    padding: 5px 10px;
+    background-color: blanchedalmond;
+}
